@@ -1,0 +1,10 @@
+$color: #ff0000;
+$bgc: #00ff00;
+
+div {
+    color: $color;
+    background-color: $bgc;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
